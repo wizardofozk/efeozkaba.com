@@ -1,0 +1,96 @@
+﻿[
+    {
+        "id":  22,
+        "count":  20,
+        "description":  "",
+        "link":  "https://efeozkaba.com/tag/en/",
+        "name":  "EN",
+        "slug":  "en",
+        "taxonomy":  "post_tag",
+        "meta":  [
+
+                 ],
+        "_links":  {
+                       "self":  [
+                                    {
+                                        "href":  "https://efeozkaba.com/wp-json/wp/v2/tags/22",
+                                        "targetHints":  {
+                                                            "allow":  "GET"
+                                                        }
+                                    }
+                                ],
+                       "collection":  [
+                                          {
+                                              "href":  "https://efeozkaba.com/wp-json/wp/v2/tags"
+                                          }
+                                      ],
+                       "about":  [
+                                     {
+                                         "href":  "https://efeozkaba.com/wp-json/wp/v2/taxonomies/post_tag"
+                                     }
+                                 ],
+                       "wp:post_type":  [
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/posts?tags=22"
+                                            },
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/pages?tags=22"
+                                            }
+                                        ],
+                       "curies":  [
+                                      {
+                                          "name":  "wp",
+                                          "href":  "https://api.w.org/{rel}",
+                                          "templated":  true
+                                      }
+                                  ]
+                   }
+    },
+    {
+        "id":  21,
+        "count":  16,
+        "description":  "",
+        "link":  "https://efeozkaba.com/tag/tr/",
+        "name":  "TR",
+        "slug":  "tr",
+        "taxonomy":  "post_tag",
+        "meta":  [
+
+                 ],
+        "_links":  {
+                       "self":  [
+                                    {
+                                        "href":  "https://efeozkaba.com/wp-json/wp/v2/tags/21",
+                                        "targetHints":  {
+                                                            "allow":  "GET"
+                                                        }
+                                    }
+                                ],
+                       "collection":  [
+                                          {
+                                              "href":  "https://efeozkaba.com/wp-json/wp/v2/tags"
+                                          }
+                                      ],
+                       "about":  [
+                                     {
+                                         "href":  "https://efeozkaba.com/wp-json/wp/v2/taxonomies/post_tag"
+                                     }
+                                 ],
+                       "wp:post_type":  [
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/posts?tags=21"
+                                            },
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/pages?tags=21"
+                                            }
+                                        ],
+                       "curies":  [
+                                      {
+                                          "name":  "wp",
+                                          "href":  "https://api.w.org/{rel}",
+                                          "templated":  true
+                                      }
+                                  ]
+                   }
+    }
+]

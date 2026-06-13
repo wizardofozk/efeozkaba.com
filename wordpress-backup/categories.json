@@ -1,0 +1,291 @@
+﻿[
+    {
+        "id":  1,
+        "count":  10,
+        "description":  "Your blog category",
+        "link":  "https://efeozkaba.com/category/blog/",
+        "name":  "Blog",
+        "slug":  "blog",
+        "taxonomy":  "category",
+        "parent":  0,
+        "meta":  [
+
+                 ],
+        "_links":  {
+                       "self":  [
+                                    {
+                                        "href":  "https://efeozkaba.com/wp-json/wp/v2/categories/1",
+                                        "targetHints":  {
+                                                            "allow":  "GET"
+                                                        }
+                                    }
+                                ],
+                       "collection":  [
+                                          {
+                                              "href":  "https://efeozkaba.com/wp-json/wp/v2/categories"
+                                          }
+                                      ],
+                       "about":  [
+                                     {
+                                         "href":  "https://efeozkaba.com/wp-json/wp/v2/taxonomies/category"
+                                     }
+                                 ],
+                       "wp:post_type":  [
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/posts?categories=1"
+                                            },
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/pages?categories=1"
+                                            }
+                                        ],
+                       "curies":  [
+                                      {
+                                          "name":  "wp",
+                                          "href":  "https://api.w.org/{rel}",
+                                          "templated":  true
+                                      }
+                                  ]
+                   }
+    },
+    {
+        "id":  19,
+        "count":  4,
+        "description":  "stuff that does not have a theme (About me, privacy, etc.)",
+        "link":  "https://efeozkaba.com/category/general/",
+        "name":  "General",
+        "slug":  "general",
+        "taxonomy":  "category",
+        "parent":  0,
+        "meta":  [
+
+                 ],
+        "_links":  {
+                       "self":  [
+                                    {
+                                        "href":  "https://efeozkaba.com/wp-json/wp/v2/categories/19",
+                                        "targetHints":  {
+                                                            "allow":  "GET"
+                                                        }
+                                    }
+                                ],
+                       "collection":  [
+                                          {
+                                              "href":  "https://efeozkaba.com/wp-json/wp/v2/categories"
+                                          }
+                                      ],
+                       "about":  [
+                                     {
+                                         "href":  "https://efeozkaba.com/wp-json/wp/v2/taxonomies/category"
+                                     }
+                                 ],
+                       "wp:post_type":  [
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/posts?categories=19"
+                                            },
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/pages?categories=19"
+                                            }
+                                        ],
+                       "curies":  [
+                                      {
+                                          "name":  "wp",
+                                          "href":  "https://api.w.org/{rel}",
+                                          "templated":  true
+                                      }
+                                  ]
+                   }
+    },
+    {
+        "id":  17,
+        "count":  0,
+        "description":  "",
+        "link":  "https://efeozkaba.com/category/travel/japan/",
+        "name":  "Japan",
+        "slug":  "japan",
+        "taxonomy":  "category",
+        "parent":  16,
+        "meta":  [
+
+                 ],
+        "_links":  {
+                       "self":  [
+                                    {
+                                        "href":  "https://efeozkaba.com/wp-json/wp/v2/categories/17",
+                                        "targetHints":  {
+                                                            "allow":  "GET"
+                                                        }
+                                    }
+                                ],
+                       "collection":  [
+                                          {
+                                              "href":  "https://efeozkaba.com/wp-json/wp/v2/categories"
+                                          }
+                                      ],
+                       "about":  [
+                                     {
+                                         "href":  "https://efeozkaba.com/wp-json/wp/v2/taxonomies/category"
+                                     }
+                                 ],
+                       "up":  [
+                                  {
+                                      "embeddable":  true,
+                                      "href":  "https://efeozkaba.com/wp-json/wp/v2/categories/16"
+                                  }
+                              ],
+                       "wp:post_type":  [
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/posts?categories=17"
+                                            },
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/pages?categories=17"
+                                            }
+                                        ],
+                       "curies":  [
+                                      {
+                                          "name":  "wp",
+                                          "href":  "https://api.w.org/{rel}",
+                                          "templated":  true
+                                      }
+                                  ]
+                   },
+        "_embedded":  {
+                          "up":  [
+                                     {
+                                         "id":  16,
+                                         "link":  "https://efeozkaba.com/category/travel/",
+                                         "name":  "Travel",
+                                         "slug":  "travel",
+                                         "taxonomy":  "category",
+                                         "_links":  {
+                                                        "self":  "",
+                                                        "collection":  "",
+                                                        "about":  "",
+                                                        "wp:post_type":  " ",
+                                                        "curies":  ""
+                                                    }
+                                     }
+                                 ]
+                      }
+    },
+    {
+        "id":  18,
+        "count":  0,
+        "description":  "",
+        "link":  "https://efeozkaba.com/category/travel/japan/tokyo/",
+        "name":  "Tokyo",
+        "slug":  "tokyo",
+        "taxonomy":  "category",
+        "parent":  17,
+        "meta":  [
+
+                 ],
+        "_links":  {
+                       "self":  [
+                                    {
+                                        "href":  "https://efeozkaba.com/wp-json/wp/v2/categories/18",
+                                        "targetHints":  {
+                                                            "allow":  "GET"
+                                                        }
+                                    }
+                                ],
+                       "collection":  [
+                                          {
+                                              "href":  "https://efeozkaba.com/wp-json/wp/v2/categories"
+                                          }
+                                      ],
+                       "about":  [
+                                     {
+                                         "href":  "https://efeozkaba.com/wp-json/wp/v2/taxonomies/category"
+                                     }
+                                 ],
+                       "up":  [
+                                  {
+                                      "embeddable":  true,
+                                      "href":  "https://efeozkaba.com/wp-json/wp/v2/categories/17"
+                                  }
+                              ],
+                       "wp:post_type":  [
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/posts?categories=18"
+                                            },
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/pages?categories=18"
+                                            }
+                                        ],
+                       "curies":  [
+                                      {
+                                          "name":  "wp",
+                                          "href":  "https://api.w.org/{rel}",
+                                          "templated":  true
+                                      }
+                                  ]
+                   },
+        "_embedded":  {
+                          "up":  [
+                                     {
+                                         "id":  17,
+                                         "link":  "https://efeozkaba.com/category/travel/japan/",
+                                         "name":  "Japan",
+                                         "slug":  "japan",
+                                         "taxonomy":  "category",
+                                         "_links":  {
+                                                        "self":  "",
+                                                        "collection":  "",
+                                                        "about":  "",
+                                                        "up":  "",
+                                                        "wp:post_type":  " ",
+                                                        "curies":  ""
+                                                    }
+                                     }
+                                 ]
+                      }
+    },
+    {
+        "id":  16,
+        "count":  0,
+        "description":  "All travel related pages",
+        "link":  "https://efeozkaba.com/category/travel/",
+        "name":  "Travel",
+        "slug":  "travel",
+        "taxonomy":  "category",
+        "parent":  0,
+        "meta":  [
+
+                 ],
+        "_links":  {
+                       "self":  [
+                                    {
+                                        "href":  "https://efeozkaba.com/wp-json/wp/v2/categories/16",
+                                        "targetHints":  {
+                                                            "allow":  "GET"
+                                                        }
+                                    }
+                                ],
+                       "collection":  [
+                                          {
+                                              "href":  "https://efeozkaba.com/wp-json/wp/v2/categories"
+                                          }
+                                      ],
+                       "about":  [
+                                     {
+                                         "href":  "https://efeozkaba.com/wp-json/wp/v2/taxonomies/category"
+                                     }
+                                 ],
+                       "wp:post_type":  [
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/posts?categories=16"
+                                            },
+                                            {
+                                                "href":  "https://efeozkaba.com/wp-json/wp/v2/pages?categories=16"
+                                            }
+                                        ],
+                       "curies":  [
+                                      {
+                                          "name":  "wp",
+                                          "href":  "https://api.w.org/{rel}",
+                                          "templated":  true
+                                      }
+                                  ]
+                   }
+    }
+]
